@@ -1,0 +1,22 @@
+By https://twitter.com/josegar21481364
+
+Instructions.
+
+1-flashes exfathax_pico
+2-on pc, go to start, disk management, delete volume.
+3-format in exFAT, fat32, or whatever you want,
+4-pass the System Volume Information folder to the root and overwrite.
+5-launch the hack on the ps4 with the magic usb
+6-activate ftp-go to usb0- and delete the System Volume Information folder.
+7-connect the magic usb in the pc and format the usb, so that windows makes the new System Volume Information folder.
+done
+
+
+1-flashea exfathax_pico
+2-en pc, ir a inicio, administración de discos, eliminar volumen. 
+3-formatear en exFAT, fat32, o lo que quieras,
+4-pasar la carpeta Información del volumen del sistema a la raíz y sobrescribir.
+5-lanzar el hack en la ps4 con el magic usb
+6-active ftp-vaya a usb0- y elimine la carpeta Información del volumen del sistema.
+7-conectar el magic usb en la pc y formatear el usb, para que windows haga la nueva carpeta System Volume Information.
+done
